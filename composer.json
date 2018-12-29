@@ -1,0 +1,17 @@
+{
+    "name": "nfsystems/wardrobe-wizard",
+    "description": "A clothing application",
+    "type": "wordpress-plugin",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "Frederik Sommerlund",
+            "email": "frederik@somnet.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.2",
+        "composer/installers": "v.1.0.6"
+    }
+}
